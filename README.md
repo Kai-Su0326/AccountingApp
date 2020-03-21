@@ -10,7 +10,7 @@ Here is the Main interface after initiating the app:
 <img src="pics/main.jpg" width="300" height="550">
 <br>
 <br>
-Then is the interface of AddRecord activity:
+Then, the interface of AddRecord activity:
 <br>
 <img src="pics/addRecord.jpg" width="300" height="550">
 <br>
