@@ -16,6 +16,7 @@ Then is the interface of AddRecord activity:
 <br>
 User can select the expense amount and the category in the RecyclerView. They can also edit the remark of each record through the EditText view. All of these data would be saved and managed by SQLite database. I implimented the getInstance() method to in GlobalUtil class to offer the context to other classes and an access to the database at the mean time.
 <br>
+<br>
 Here is one added record of the day and the total expense would show in the TickerView.
 <br>
 <img src="pics/added.jpg" width="300" height="550">
