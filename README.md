@@ -6,4 +6,4 @@ User can record incomes and expenses on a daily basis. The App also allows user 
 
 ## Display
 Here is the Main interface after initiating the app:
-<img src="pics/main.jpg" width="80" height="160">
+<img src="pics/main.jpg" width="300" height="550">
