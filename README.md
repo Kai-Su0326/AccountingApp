@@ -1,5 +1,7 @@
 # AccountingApp
+This is an Android App helping people record and keep track of their accounting information.
 
-#### This is an Android App helping people record and keep track of their accounting information.
+## Instruction
+User can record incomes and expenses on a daily basis. The App also allows user to costomize the category, amount and remark of each record which can be edited or deleted after being created.
 
-#### I implemented the back end logic using Java with Android back-end API integration, constructed the user interface using XML and used SQLite database to manage user's accounting information.
+## Display
