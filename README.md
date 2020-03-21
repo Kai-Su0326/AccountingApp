@@ -9,11 +9,13 @@ Here is the Main interface after initiating the app:
 <br>
 <img src="pics/main.jpg" width="300" height="550">
 <br>
+By clicking the green button, it would send an intent to initiate the next activity. It is startActivityForResult(intent) that is supposed to be called, because it helps update the database and ListView in main activity.
 <br>
-Then, the interface of AddRecord activity:
+Then, here is the interface of AddRecord activity:
 <br>
 <img src="pics/addRecord.jpg" width="300" height="550">
 <br>
+
 User can select the expense amount and the category in the RecyclerView. They can also edit the remark of each record through the EditText view. All of these data would be saved and managed by SQLite database. I implimented the getInstance() method to in GlobalUtil class to offer the context to other classes and an access to the database at the mean time.
 <br>
 <br>
