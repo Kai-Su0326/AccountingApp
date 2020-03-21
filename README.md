@@ -8,3 +8,8 @@ User can record incomes and expenses on a daily basis. The App also allows user 
 Here is the Main interface after initiating the app:
 <br>
 <img src="pics/main.jpg" width="300" height="550">
+<br>
+Then is the interface of AddRecord activity:
+<br>
+<img src="pics/addRecords.jpg" width="300" height="550>
+<br>
