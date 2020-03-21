@@ -11,5 +11,5 @@ Here is the Main interface after initiating the app:
 <br>
 Then is the interface of AddRecord activity:
 <br>
-<img src="pics/addRecords.jpg" width="300" height="550>
+<img src="pics/addRecords.jpg" width="300" height="550">
 <br>
